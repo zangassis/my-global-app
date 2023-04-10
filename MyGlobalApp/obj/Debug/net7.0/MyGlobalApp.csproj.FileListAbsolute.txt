@@ -30,9 +30,9 @@ C:\Projects\LeranSeven\my-global-app\MyGlobalApp\obj\Debug\net7.0\refint\MyGloba
 C:\Projects\LeranSeven\my-global-app\MyGlobalApp\obj\Debug\net7.0\MyGlobalApp.pdb
 C:\Projects\LeranSeven\my-global-app\MyGlobalApp\obj\Debug\net7.0\MyGlobalApp.genruntimeconfig.cache
 C:\Projects\LeranSeven\my-global-app\MyGlobalApp\obj\Debug\net7.0\ref\MyGlobalApp.dll
-C:\Projects\LeranSeven\my-global-app\MyGlobalApp\bin\Debug\net7.0\en\MyGlobalApp.resources.dll
-C:\Projects\LeranSeven\my-global-app\MyGlobalApp\bin\Debug\net7.0\es\MyGlobalApp.resources.dll
-C:\Projects\LeranSeven\my-global-app\MyGlobalApp\obj\Debug\net7.0\en\MyGlobalApp.resources.dll
-C:\Projects\LeranSeven\my-global-app\MyGlobalApp\obj\Debug\net7.0\es\MyGlobalApp.resources.dll
-C:\Projects\LeranSeven\my-global-app\MyGlobalApp\obj\Debug\net7.0\MyGlobalApp.Resources.Controllers.LocalizationController.en.resources
-C:\Projects\LeranSeven\my-global-app\MyGlobalApp\obj\Debug\net7.0\MyGlobalApp.Resources.Controllers.LocalizationController.es.resources
+C:\Projects\LeranSeven\my-global-app\MyGlobalApp\bin\Debug\net7.0\en-US\MyGlobalApp.resources.dll
+C:\Projects\LeranSeven\my-global-app\MyGlobalApp\bin\Debug\net7.0\es-ES\MyGlobalApp.resources.dll
+C:\Projects\LeranSeven\my-global-app\MyGlobalApp\obj\Debug\net7.0\MyGlobalApp.Resources.Controllers.LocalizationController.en-US.resources
+C:\Projects\LeranSeven\my-global-app\MyGlobalApp\obj\Debug\net7.0\MyGlobalApp.Resources.Controllers.LocalizationController.es-ES.resources
+C:\Projects\LeranSeven\my-global-app\MyGlobalApp\obj\Debug\net7.0\en-US\MyGlobalApp.resources.dll
+C:\Projects\LeranSeven\my-global-app\MyGlobalApp\obj\Debug\net7.0\es-ES\MyGlobalApp.resources.dll

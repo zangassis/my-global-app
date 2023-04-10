@@ -27,6 +27,21 @@
                         </li>
                     </ul>
                 </div>
+
+                 <div class="dropdown">
+                  <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown">Language</button>
+                  <ul class="dropdown-menu">
+                    <li>
+                        <a asp-controller="Localization" asp-action="Index" asp-route-culture="en-us" class="dropdown-item">
+                        <i class="flag-icon flag-icon-gb"></i>English</a>
+                    </li>
+                    <li>
+                        <a asp-controller="Localization" asp-action="Index" asp-route-culture="es-es" class="dropdown-item">
+                        <i class="flag-icon flag-icon-gb"></i>Spanish</a>
+                    </li>
+                  </ul>
+                </div>
+
             </div>
         </nav>
     </header>
