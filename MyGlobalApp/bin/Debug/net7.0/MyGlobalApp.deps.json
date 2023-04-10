@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MyGlobalApp/1.0.0": {
+        "runtime": {
+          "MyGlobalApp.dll": {}
+        },
+        "resources": {
+          "en-us/MyGlobalApp.resources.dll": {
+            "locale": "en-us"
+          },
+          "es-es/MyGlobalApp.resources.dll": {
+            "locale": "es-es"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyGlobalApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
